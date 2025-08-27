@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Project Screenshot](Screenshot 2025-08-28 at 00.14.28.png)
+(Screenshot 2025-08-28 at 00.14.28.png)
 
 ### Links
 
@@ -63,6 +63,7 @@ Here’s an example snippet I’m proud of:
   width: 150px;
   height: 150px;
 }
+```
 
 ### Continued development
 
@@ -88,4 +89,3 @@ In future projects, I want to focus more on:
 
 - Frontend Mentor - [@CoderBlack25](https://www.frontendmentor.io/profile/CoderBlack25)
 - Twitter - [@dWeb3Oracle](https://www.twitter.com/dWeb3Oracle)
-```
