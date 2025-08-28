@@ -80,9 +80,6 @@ In future projects, I want to focus more on:
 - [MDN CSS documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
   Helped me revisit some flexbox and gradient properties.
 
-- [Frontend Mentor Slack/Community](https://www.frontendmentor.io/slack)
-  Great place to see how others tackled the same challenge.
-
 - [W3Schools HTML and CSS Tutorials] (https://www.w3schools.com)
 
 ## Author
